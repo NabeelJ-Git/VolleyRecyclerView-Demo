@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volley RecyclerView Demo</string>
+    <string name="am_retrieve_data_button_label">Retrieve Data</string>
+</resources>
